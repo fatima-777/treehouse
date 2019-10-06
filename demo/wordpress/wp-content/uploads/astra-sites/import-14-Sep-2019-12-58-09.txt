@@ -1,0 +1,88 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.8
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 13:18:20 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Deleted customizer Settings {"theme-auto-version":"2.0.1","_astra_pb_compatibility_completed":true}
+Deleted - Site Options []
+DELETED - WIDGETS []
+Inserted WP Form 8
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"1.8.7","theme-auto-version":"1.8.7","header-main-rt-section":"button","header-main-rt-section-button-text":"Contact","header-main-rt-section-button-link":"#","site-sidebar-layout":"no-sidebar","body-font-family":"'Open Sans', sans-serif","body-font-weight":"600","font-size-body":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"headings-font-family":"'Poppins', sans-serif","headings-font-variant":"700","headings-font-weight":"500","font-size-h1":{"desktop":"65","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"40","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"theme-color":"#ff5f42","link-color":"#ff5f42","text-color":"#3a3a3a","link-h-color":"#ff5f42","button-color":"#3a3a3a","button-h-color":"#ffffff","button-bg-color":"#ffffff","button-bg-h-color":"#3a3a3a","button-radius":40,"body-font-variant":"400","font-size-h3":{"desktop":"25","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-content-layout":"boxed-container","header-main-layout-width":"content","transparent-menu-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"rgba(255,255,255,0.8)","tablet":"","mobile":""},"body-line-height":"1.5","header-main-rt-section-button-text-color":"#ffffff","header-main-rt-section-button-text-h-color":"#ffffff","header-main-rt-section-button-back-color":"#ff5f42","header-main-rt-section-button-back-h-color":"#3a3a3a","header-main-rt-section-button-style":"custom-button","header-main-rt-section-button-padding":{"desktop":{"top":"8","right":"25","bottom":"8","left":"25"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-rt-section-button-border-radius":40,"header-layouts":"header-main-layout-1","ast-header-responsive-logo-width":{"desktop":"150","tablet":"","mobile":"120"},"display-site-title":false,"logo-title-inline":false,"footer-color":"#ffffff","footer-bg-obj":{"background-color":"#ff5f42","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-sml-layout":"footer-sml-layout-2","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by [site_title]","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a>","footer-link-color":"#ffffff","footer-sml-divider-color":"#ff9084","site-layout-outside-bg-obj":{"background-color":"#f5f5f5","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"#ff5f42","hide-custom-menu-mobile":false},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/461/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Food &amp; Diet","slug":"food-diet","term_group":0,"term_taxonomy_id":2,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"Grooming","slug":"grooming","term_group":0,"term_taxonomy_id":3,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"Training","slug":"training","term_group":0,"term_taxonomy_id":4,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 5 - {"term_id":5,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":5,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 329 - attachment - blog01-free-img
+Inserted - Post 332 - attachment - blog02-free-img
+Inserted - Post 336 - attachment - blog03-free-img
+Inserted - Post 339 - attachment - blog04-free-img
+Inserted - Post 343 - attachment - blog05-free-img
+Inserted - Post 346 - attachment - blog06-free-img
+Inserted - Post 368 - attachment - pet-bg-free-img
+Inserted - Post 556 - attachment - testimonial1-free-img
+Inserted - Post 557 - attachment - testimonial2-free-img
+Inserted - Post 559 - attachment - quotes-free-img
+Inserted - Post 628 - attachment - profile-free-img
+Inserted - Post 644 - attachment - hero-free-img
+Inserted - Post 691 - attachment - pets-logo8-free-img
+Inserted - Post 692 - attachment - pets-logo2-free-img
+Inserted - Post 693 - attachment - pets-logo4-free-img
+Inserted - Post 694 - attachment - pets-logo7-free-img
+Inserted - Post 734 - attachment - site-logo-free-img
+Inserted - Post 768 - attachment - site-favicon-free-img
+Inserted - Post 780 - attachment - blog09-free-img
+Inserted - Post 781 - attachment - blog07-free-img
+Inserted - Post 782 - page - Home
+Inserted - Post 783 - page - About Me
+Inserted - Post 784 - page - Blog
+Inserted - Post 12 - nav_menu_item - 
+Inserted - Post 13 - nav_menu_item - 
+Inserted - Post 14 - nav_menu_item - 
+Inserted - Post 199 - post - Benefits of Exercising with Your Dog
+Inserted - Post 309 - post - Surprise Your Pup On His Birthday
+Inserted - Post 312 - post - Top Tips for Grooming Your Pup!
+Inserted - Post 314 - post - Healthy Donut Recipes for Your Pets
+Inserted - Post 316 - post - How to Choose Puppy Food?
+Inserted - Post 319 - post - Tips for Smooth &#038; Silky Dog Fur
+Inserted - Post 778 - post - 20 Tips for Your Dog Training
+Inserted - Post 785 - attachment - blog08-free-img
+Inserted - Post 786 - post - Not Just Humans Need Home
+Inserted - Post 787 - post - Healthy Habits &#038; Exercises for Your Pets
+Inserted - Post 900 - attachment - about-hero-free-img
+Inserted - Post 902 - attachment - blog-hero-free-img
+Inserted - Post 908 - attachment - yoast-free-img
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/pet-care-07\/wp-content\/uploads\/sites\/461\/2019\/06\/site-logo-free-img.svg","nav_menu_locations":{"primary":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":null,"elementor_cpt_support":null,"elementor_css_print_method":null,"elementor_default_generic_fonts":null,"elementor_disable_color_schemes":null,"elementor_disable_typography_schemes":null,"elementor_editor_break_lines":null,"elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":null,"elementor_scheme_color-picker]":null,"elementor_scheme_typography":null,"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'treehouse' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 12
+Post ID: 13
+Post ID: 14
+Batch Process Complete!
